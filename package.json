@@ -1,0 +1,10 @@
+{
+  "name": "typescript-template",
+  "version": "0.0.0",
+  "description": "Typescript + Babel 7 + Jest + Lint template",
+  "main": "lib/index.js",
+  "repository": "git@github.com:adilsoncarvalho/typescript-template.git",
+  "author": "Adilson Carvalho <lc.adilson@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
