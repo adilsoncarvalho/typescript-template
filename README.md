@@ -1,5 +1,7 @@
 # typescript-template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adilsoncarvalho/typescript-template.svg)](https://greenkeeper.io/)
+
 ## Some considerations
 
 - Audience
